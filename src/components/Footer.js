@@ -13,7 +13,8 @@ const Footer = () => {
   return (
     <FooterContainer>
       <p>&copy; 2025 Universal Logistics Services. All Rights Reserved.</p>
-      <p>Follow us on Social Media</p>
+      <p>CONTACT US: phone: '+92-21-35148129-31',
+      una: 'UNA: +92-21-111-669-877' </p>
       <div>
         <a href="https://facebook.com" style={{ color: 'white', margin: '0 10px' }}>Facebook</a>
         <a href="https://twitter.com" style={{ color: 'white', margin: '0 10px' }}>Twitter</a>
