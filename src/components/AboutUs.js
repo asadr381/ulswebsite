@@ -54,29 +54,11 @@ const AboutUs = () => {
 
   const offices = [
     {
-      city: 'Karachi',
-      address: 'Plot #45, Street 12, DHA Phase 6, Karachi',
-      phone: '+92 21 34567890',
-      una: 'UNA: PK-KHI-001',
-    },
-    {
-      city: 'Lahore',
-      address: 'Building #23, Gulberg 3, Lahore',
-      phone: '+92 42 34567891',
-      una: 'UNA: PK-LHE-002',
-    },
-    {
-      city: 'Sialkot',
-      address: 'Shop #78, Airport Road, Sialkot',
-      phone: '+92 52 34567892',
-      una: 'UNA: PK-SKT-003',
-    },
-    {
-      city: 'Islamabad',
-      address: 'Office #12, Blue Area, Islamabad',
-      phone: '+92 51 34567893',
-      una: 'UNA: PK-ISB-004',
-    },
+      city: 'HEAD OFFICE KARACHI',
+      address: 'D-79, Block 5, Kehkashan Clifton, Karachi, Pakistan',
+      phone: '+92-21-35148129-31',
+      una: 'UNA: +92-21-111-669-877',
+    }
   ];
 
   return (
